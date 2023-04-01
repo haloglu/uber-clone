@@ -1,2 +1,24 @@
-# uber-clone
- The Uber clone I developed displays two selected points on the map and shows their prices. The application offers three options: Comfort, Uber, and UberXL. Users can compare different options and choose the most suitable one for their travel needs. 
+# uber
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
